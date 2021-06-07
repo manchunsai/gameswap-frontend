@@ -11,7 +11,7 @@ const farms: FarmConfig[] = [
       56: '',
       137: '0xf8B95faA6745f0712CEe7bb99909F16D7696206D', // STONK - USDC
     },
-    tokenSymbol: 'STONK',
+    tokenSymbol: 'ON9',
     tokenAddresses: {
       97: '',
       56: '',
